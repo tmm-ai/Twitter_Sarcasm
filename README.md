@@ -9,6 +9,8 @@ We provided our answer.txt in this repo. If you add this to livedatalab, you can
 2. Get our train.jsonl and test.jsonl files and place them in your google drive in subdirectory called data i.e. drive/MyDrive/data/train.jsonl
 3. Run through our notebook, https://colab.research.google.com/drive/1zcMMw8xe6vh9rMPlBB_i-HZGrxsk5UJj#scrollTo=Qbr6a4LYcl_w, but skip training step. Instead, load our model into your drive and run on validation and test set. Then, submit answer.txt from last cell to livedatalab.
 
+Demo video / code walkthrough of Colab verion: https://youtu.be/OUu71EapO5U
+
 ### Run with python scripts
 1. Clone this repo and cd into it
 2. Run pip install --upgrade -r requirements.txt (make sure you are using python3)
